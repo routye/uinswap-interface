@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5c0f693-cc8c-45f0-81a5-9053490d8fe3" name="Default Changelist" comment="" />
+    <list default="true" id="c5c0f693-cc8c-45f0-81a5-9053490d8fe3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -49,12 +52,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="255" y="0" width="968" height="900" key="CommitChangelistDialog2" timestamp="1604470690541">
+      <screen x="49" y="0" width="1391" height="900" />
+    </state>
+    <state x="255" y="0" width="968" height="900" key="CommitChangelistDialog2/49.0.1391.900@49.0.1391.900" timestamp="1604470690541" />
+    <state x="149" y="98" width="1191" height="702" key="DiffContextDialog" timestamp="1604471078121">
+      <screen x="49" y="0" width="1391" height="900" />
+    </state>
+    <state x="149" y="98" width="1191" height="702" key="DiffContextDialog/49.0.1391.900@49.0.1391.900" timestamp="1604471078121" />
     <state x="226" y="84" key="SettingsEditor" timestamp="1604470555878">
       <screen x="49" y="0" width="1391" height="900" />
     </state>
     <state x="226" y="84" key="SettingsEditor/49.0.1391.900@49.0.1391.900" timestamp="1604470555878" />
+    <state x="514" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604470640834">
+      <screen x="49" y="0" width="1391" height="900" />
+    </state>
+    <state x="514" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/49.0.1391.900@49.0.1391.900" timestamp="1604470640834" />
     <state x="462" y="338" width="555" height="222" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604470167602">
       <screen x="49" y="0" width="1391" height="900" />
     </state>
