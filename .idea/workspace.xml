@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5c0f693-cc8c-45f0-81a5-9053490d8fe3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="c5c0f693-cc8c-45f0-81a5-9053490d8fe3" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
@@ -56,14 +57,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="255" y="0" width="968" height="900" key="CommitChangelistDialog2" timestamp="1604470690541">
+    <state x="255" y="0" width="968" height="900" key="CommitChangelistDialog2" timestamp="1604471116923">
       <screen x="49" y="0" width="1391" height="900" />
     </state>
-    <state x="255" y="0" width="968" height="900" key="CommitChangelistDialog2/49.0.1391.900@49.0.1391.900" timestamp="1604470690541" />
-    <state x="149" y="98" width="1191" height="702" key="DiffContextDialog" timestamp="1604471078121">
+    <state x="255" y="0" width="968" height="900" key="CommitChangelistDialog2/49.0.1391.900@49.0.1391.900" timestamp="1604471116923" />
+    <state x="149" y="98" width="1191" height="702" key="DiffContextDialog" timestamp="1604472185500">
       <screen x="49" y="0" width="1391" height="900" />
     </state>
-    <state x="149" y="98" width="1191" height="702" key="DiffContextDialog/49.0.1391.900@49.0.1391.900" timestamp="1604471078121" />
+    <state x="149" y="98" width="1191" height="702" key="DiffContextDialog/49.0.1391.900@49.0.1391.900" timestamp="1604472185500" />
     <state x="226" y="84" key="SettingsEditor" timestamp="1604470555878">
       <screen x="49" y="0" width="1391" height="900" />
     </state>
@@ -72,6 +73,10 @@
       <screen x="49" y="0" width="1391" height="900" />
     </state>
     <state x="514" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/49.0.1391.900@49.0.1391.900" timestamp="1604470640834" />
+    <state x="436" y="138" width="617" height="622" key="find.popup" timestamp="1604541494318">
+      <screen x="49" y="0" width="1391" height="900" />
+    </state>
+    <state x="436" y="138" width="617" height="622" key="find.popup/49.0.1391.900@49.0.1391.900" timestamp="1604541494318" />
     <state x="462" y="338" width="555" height="222" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604470167602">
       <screen x="49" y="0" width="1391" height="900" />
     </state>
